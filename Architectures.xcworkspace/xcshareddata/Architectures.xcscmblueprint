@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2e342b01-ad5e-0410-8276-debea0bdd5af++4945",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "2e342b01-ad5e-0410-8276-debea0bdd5af++4945" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2e342b01-ad5e-0410-8276-debea0bdd5af++4945" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CD9087D7-7D06-4E98-A6FC-7419CC1B0E46",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2e342b01-ad5e-0410-8276-debea0bdd5af++4945" : "workspace\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Architectures",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "jiang_bin\/Architectures\/Architectures.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/10.6.5.2\/svnpl\/BASPlatform",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2e342b01-ad5e-0410-8276-debea0bdd5af++4945"
+    }
+  ]
+}
